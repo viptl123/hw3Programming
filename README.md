@@ -6,3 +6,7 @@ If on virutal environment
 3. If on virutal environment run 'gcc hw3.c -o test'
 4. If on virtual environment run './test'
 
+If running locall 
+1. Download c file and navigate to enclosing folder
+2. run 'gcc hw3_programming.c -o test' or replace test with whatever file name you want to use
+3. run './test' or './filename' where filename is the filename you chose to use instead of test
